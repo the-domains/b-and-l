@@ -1,0 +1,28 @@
+name: 'b&l'
+favicon: null
+layout_spectrum: 0.9369932350236923
+typography_spectrum: 0.8962045256048441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6438480045180768
+  lightness: 0.7647850986104459
+  saturation: 0.989390816539526
+  rhythmicContrast: 0.7296871556900442
+purpose: []
